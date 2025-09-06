@@ -1,4 +1,7 @@
 # Odoo-X-NMIT-Hackathon-2025
+# Team GRAY Code 
+Year of Graduation: 2027
+
 Problem Statement 1
 Project Document: "EcoFinds - Sustainable Second-Hand Marketplace"
 
